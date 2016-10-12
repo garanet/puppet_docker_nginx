@@ -7,3 +7,4 @@ Installing the module Docker for Puppet.
 
 :~$ sudo /opt/puppetlabs/bin/puppet module install garethr-docker
 
+2016 - www.garanet.net
