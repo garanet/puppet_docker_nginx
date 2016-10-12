@@ -7,4 +7,8 @@ Installing the module Docker for Puppet.
 
 :~$ sudo /opt/puppetlabs/bin/puppet module install garethr-docker
 
+:~$ git clone https://github.com/garanet/puppet_docker_nginx.git
+
+Copy the content of site.pp file (or you can copy directly the file) into the your puppet manifest
+
 2016 - www.garanet.net
