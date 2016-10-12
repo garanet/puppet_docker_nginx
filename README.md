@@ -11,4 +11,6 @@ Installing the module Docker for Puppet.
 
 Copy the content of site.pp file (or you can copy directly the file) into the your puppet manifest
 
+:~$ cp puppet_docker_nginx/site.pp /etc/puppetlabs/code/environments/production/manifests/
+
 2016 - www.garanet.net
